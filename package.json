@@ -1,0 +1,30 @@
+{
+  "name": "02-express-2",
+  "version": "1.0.0",
+  "description": "testing routes",
+  "keywords": [
+    "express"
+  ],
+  "homepage": "https://github.com/Emmanuel-dev-oss/express-routes#readme",
+  "bugs": {
+    "url": "https://github.com/Emmanuel-dev-oss/express-routes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emmanuel-dev-oss/express-routes.git"
+  },
+  "license": "ISC",
+  "author": "Abidoye Emmanuel",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
